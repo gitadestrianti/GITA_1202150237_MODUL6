@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1009848291891",
+    "firebase_url": "https://gita1202150237modul6.firebaseio.com",
+    "project_id": "gita1202150237modul6",
+    "storage_bucket": "gita1202150237modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009848291891:android:b0edaa7f56526ee9",
+        "android_client_info": {
+          "package_name": "com.notsorryforbeingme.gita_1202150237_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009848291891-kr0ininbn9ia8b1rd52sg79ppmth4i4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notsorryforbeingme.gita_1202150237_modul6",
+            "certificate_hash": "bb4fede9a7b9d80289a1ccc84bb81c6481b23d33"
+          }
+        },
+        {
+          "client_id": "1009848291891-fgkttgogge11t8ka5osefupe3pjq8vuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVtP1uFVGipmSV02k1OiMq_R8Qp3Tes-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009848291891-fgkttgogge11t8ka5osefupe3pjq8vuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

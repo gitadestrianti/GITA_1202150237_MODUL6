@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1042358035753",
+    "firebase_url": "https://popotoan-78bc1.firebaseio.com",
+    "project_id": "popotoan-78bc1",
+    "storage_bucket": "popotoan-78bc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042358035753:android:71db3e7a24689d3c",
+        "android_client_info": {
+          "package_name": "id.showup.niken.niken_1202154297_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042358035753-ludgeqnhrqc6t7p9jr61iv44ld6qm4pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJjXjv8KJ6DVZ3LaCUHCOCz4PWJlR6Q2s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
